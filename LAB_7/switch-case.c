@@ -62,6 +62,5 @@ int main(){
     }
     printf("%d = 1 \n%d = 2 \n%d = 5 \n%d = 10 \n%d = 20 \n%d = 50 \n%d = 100 \n%d = 200 \n%d = 500 \n%d = 2000", a, b, c, d, e, f, g, h, i, j);
     //I'm Sowwy :P
-    // test eklavya
     return 0;
 }
